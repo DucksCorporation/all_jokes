@@ -3,7 +3,7 @@ This module allows you to get different jokes from a variety of choices.
 
 ### Usage
 ```js
-const { Jokes } = require("all_jokes");
+const Jokes = require("all_jokes");
 const jokes = new Jokes();
 
 console.log(
