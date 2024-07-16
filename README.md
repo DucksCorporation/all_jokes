@@ -8,7 +8,7 @@ const jokes = new Jokes();
 
 console.log(
     jokes.getRandomJoke(), //return a joke.
-    jokes.getJokeByType(JokeType), //jokeType: ["dark", "limit", "dev", "normal", "beauf", "blonde"];
+    jokes.getJokeByType(JokeType), //jokeType: ["dark", "limit", "dev", "normal", "beauf", "blonde", "chucknorris"];
     jokes.getJokeById(Number), // return a joke via an id.
     jokes.getHelp(), //return the discord support server.
     jokes.getStats() //return the number of available jokes.
