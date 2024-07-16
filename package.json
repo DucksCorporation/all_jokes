@@ -1,0 +1,15 @@
+{
+  "name": "all_jokes",
+  "version": "6.1.0",
+  "description": "A module for jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Picsou",
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
